@@ -1,0 +1,9 @@
+.contact-list{
+  width:50%;
+  margin:0 auto;
+  text-align: center;
+}
+
+.contact-list td img{
+  max-height:100px;
+}
